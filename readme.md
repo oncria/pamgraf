@@ -1,1 +1,1 @@
-Informação do projeto no GIT
+Projeto da Pamgraf

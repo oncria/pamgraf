@@ -1,0 +1,314 @@
+
+/* TABS */
+.tabs .tab a:hover, .tabs .tab a.active {color: #691ae7;}
+.tabs .tab a {color: #1a8be7;}
+.tabs .indicator{background-color: #7230e9;}
+.tabs .tab a:focus, .tabs .tab a:focus.active {color:#ffffff;background-color: #691ae7;outline: none;}
+
+
+/* CEL COLORS */
+.cel-azul{background:#002077;}
+.cel-vermelho{background:#ff2d00;}
+.cel-preto{background:#000000;}
+
+/* ELEMENTS LIST */
+.glide__slide {border-color: #ffffff;background-color: #ffffff;}
+
+.default-blue{color:#282f6f;}
+.default-red{color:#e91c2e;}
+.default-text{color:#3b3d40;}
+.alert-text{color:#ffba00;}
+.warning-text{color:#e91c2e;}
+
+/* WIREFRAME */
+
+
+/* STRUCTURE */
+#widget-left{height:100%;}
+.wrap-content{max-width:1240px;margin:auto;}
+.sidenav{width:350px;}
+.max100{max-width:100%;}
+.full-size{margin: 0;line-height: 0;padding:0;}
+.hscroll {overflow-x: auto;display: block;-webkit-flex-wrap: nowrap;-ms-flex-wrap: nowrap;flex-wrap: nowrap;white-space: nowrap;}
+.padding10{padding:10px !important;}
+.padding20{padding:20px !important;}
+.padding30{padding:30px !important;}
+.margin10{margin:10px !important;}
+.margin20{margin:20px !important;}
+.margin30{margin:30px !important;}
+.padding-top10{padding-top:10px;}
+.padding-top50{padding-top:50px;}
+.padding-top70{padding-top:70px;}
+.padding-top100{padding-top:100px;}
+.padding-topbottom10{padding-top:10px;padding-bottom:10px;}
+.padding-topbottom20{padding-top:20px;padding-bottom:20px;}
+.padding-topbottom30{padding-top:30px;padding-bottom:30px;}
+.padding-topbottom50{padding-top:50px;padding-bottom:50px;}
+.margin-topbottom15{margin-top:15px;margin-bottom:15px;}
+.margin-topbottom20{margin-top:20px;margin-bottom:20px;}
+.margin-topbottom30{margin-top:30px;margin-bottom:30px;}
+.margin-topbottom50{margin-top:50px;margin-bottom:50px;}
+.border-radius5{-moz-border-radius: 5px;-webkit-border-radius: 5px;border-radius: 5px;}
+.border-radius10{-moz-border-radius: 10px;-webkit-border-radius: 10px;border-radius: 10px;}
+.border-radius15{-moz-border-radius: 15px;-webkit-border-radius: 15px;border-radius: 15px;}
+.border-radius30{-moz-border-radius: 53px;-webkit-border-radius: 30px;border-radius: 30px;}
+.border-radius50{-moz-border-radius: 50px;-webkit-border-radius: 50px;border-radius: 50px;}
+.border-radius100{-moz-border-radius: 100px;-webkit-border-radius: 100px;border-radius: 100px;}
+.top-border-radius5{-moz-border-radius: 5px 5px 0 0;-webkit-border-radius: 5px 5px 0 0;border-radius: 5px 5px 0 0;}
+.top-border-radius10{-moz-border-radius: 10px 10px 0 0;-webkit-border-radius: 10px 10px 0 0;border-radius: 10px 10px 0 0;}
+.top-border-radius15{-moz-border-radius: 15px 15px 0 0;-webkit-border-radius: 15px 15px 0 0;border-radius: 15px 15px 0 0;}
+.top-neg10{margin-top:-10px;}
+.top-neg20{margin-top:-20px;}
+.top-neg30{margin-top:-30px;}
+
+
+/* CONTENT */
+/*.xps-href{cursor:pointer;}
+.disabled {opacity: 0.5;}
+.checkbox-list{list-style:none;}
+.checkbox-list li{display:inline;margin-right:10px;}
+.checkbox-list li:last-child{margin-right:0;}
+.menu-bottom {position: fixed;bottom: 0;font-size: 0.7em;}
+#alerts{position:fixed;bottom:0;width:100%;}
+#alerts .info{padding:30px;margin:auto;max-width:400px;}
+.menu-actions li {display: inline-block;}
+.btn-actions li{display:inline-block !important;}*/
+#search{border:0;margin:0;}
+#pessoal, #personagens, #livre{padding-top:10px;}
+#pessoal .row, #personagens .row, #livre .row{margin-bottom:30px;}
+.circle-icon{width:50px;height:50px;border-radius:100%;text-align:center;font-size:20px;line-height:50px;}
+.tabs{border-radius:30px;}
+.thunbs .cards{position:relative;}
+/*.xps-form{border-radius:30px;padding:0px 10px;position:relative;}
+.xps-form select{border:0 !important;border-radius:30px !important;}
+.xps-form input, .xps-form input:active, .xps-form input:focus{border:0 !important;margin:0;border-bottom: 0px solid #26a69a !important;-webkit-box-shadow: 0 0px 0 0 #26a69a !important;box-shadow: 0 0px 0 0 #26a69a !important;}*/
+/*.btn-default{height:44px;line-height:44px;}*/
+.img-upload{width:391px;height:725px;overflow: hidden;}
+.img-upload-max{width:500px;height:1200px;}
+.img-upload-max {width: 500px;height: 1200px;top: -100px;left: -50px;}
+
+/* ELEMENTS */
+#customcharacters .elements{width: 391px; height: 725px;}
+#customcharacters .elements .pre{position:absolute;bottom:0px;}
+#custompersonal, #customcharacters{display:none;}
+.img-upload-max img{width:100%;}
+.tab-personalizacao.active{display:block !important;}
+.tab-personalizacao.active{display:block !important;}
+
+/* ELEMENTS */
+.customcharacters .elements{width: 391px; height: 1050px;}
+.customcharacters .elements .pre{position:absolute;bottom:0px;}
+.custompersonal, .customcharacters{display:none;}
+.tab-personalizacao.active{display:block !important;}
+
+
+/* ELEMENTS LIST */
+#personagens .glide__slide{background-size:160%;background-repeat:no-repeat;background-position:top center;}
+#roupa .glide__slide{background-position:center center;}
+#objeto .glide__slide{background-position:center left;}
+#pele .glide__slide{background-position:center center;}
+
+/* TODO-TRANSFORMAR EM LISTA DINÂMICA */
+.pele-1{background-image:url('../images/characters/professions/pele/pele1.png');}
+.pele-2{background-image:url('../images/characters/professions/pele/pele2.png');}
+.pele-3{background-image:url('../images/characters/professions/pele/pele3.png');}
+.pele-4{background-image:url('../images/characters/professions/pele/pele4.png');}
+.pele-5{background-image:url('../images/characters/professions/pele/pele5.png');}
+.objeto-1{background-image:url('../images/characters/professions/objeto/livros.png');}
+.objeto-2{background-image:url('../images/characters/professions/objeto/notebook.png');}
+.objeto-3{background-image:url('../images/characters/professions/objeto/papeis.png');}
+.objeto-4{background-image:url('../images/characters/professions/objeto/prancheta.png');}
+.roupa-1{background-image:url('../images/characters/professions/roupa/roupa1.png');}
+.roupa-2{background-image:url('../images/characters/professions/roupa/roupa2.png');}
+.roupa-3{background-image:url('../images/characters/professions/roupa/roupa3.png');}
+.roupa-4{background-image:url('../images/characters/professions/roupa/roupa4.png');}
+.roupa-5{background-image:url('../images/characters/professions/roupa/roupa5.png');}
+.roupa-6{background-image:url('../images/characters/professions/roupa/roupa6.png');}
+.roupa-7{background-image:url('../images/characters/professions/roupa/roupa7.png');}
+.roupa-8{background-image:url('../images/characters/professions/roupa/roupa8.png');}
+.cabelo-1{background-image:url('../images/characters/professions/cabelo/cabelo-claro/0001.png');}
+.cabelo-2{background-image:url('../images/characters/professions/cabelo/cabelo-claro/0002.png');}
+.cabelo-3{background-image:url('../images/characters/professions/cabelo/cabelo-claro/0003.png');}
+.cabelo-4{background-image:url('../images/characters/professions/cabelo/cabelo-escuro/0001.png');}
+.cabelo-5{background-image:url('../images/characters/professions/cabelo/cabelo-escuro/0002.png');}
+.cabelo-6{background-image:url('../images/characters/professions/cabelo/cabelo-escuro/0003.png');}
+.cabelo-7{background-image:url('../images/characters/professions/cabelo/cabelo-ruivo/0001.png');}
+.cabelo-8{background-image:url('../images/characters/professions/cabelo/cabelo-ruivo/0002.png');}
+.cabelo-9{background-image:url('../images/characters/professions/cabelo/cabelo-ruivo/0003.png');}
+
+/* CARDS */
+.card, .toast, .btn, .btn-large, .btn-small, .btn-floating, .dropdown-content, .collapsible, .sidenav {
+  -webkit-box-shadow: 0 2px 2px 0 rgb(0 0 0 / 0%), 0 3px 1px -2px rgb(0 0 0 / 0%), 0 1px 5px 0 rgb(0 0 0 / 0%);
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 0%), 0 3px 1px -2px rgb(0 0 0 / 0%), 0 1px 5px 0 rgb(0 0 0 / 0%);}
+.cards{overflow: hidden;}
+.cards img{max-width:100%;}
+
+/* BOTÕES */
+.xps-btn-search {background: no-repeat;border: none;border-radius: 70px;width: 53px;height: 53px;padding: 0;margin: 0;line-height: inherit;}
+.btn-actions li {display: inline;}
+.btn-actions {list-style: none;}
+.btn-search {background: none;border: 0;font-size: 1.5rem;}
+.menu-actions .xps-form{padding: 0px 10px;}
+.btn-default{border-radius:30px;}
+
+/* GLIDE */
+.glide__slide{height:54px;border:1px solid;border-radius:100%;}
+#personagens .glide__slides{margin-top:0;}
+#personagens .row{margin-bottom:5px;}
+
+
+/* FOOTER */
+#footer{position:absolute;width:100%;bottom:0;}
+
+/* PREVIEW */
+.prev-imagem1, .prev-imagem2, .prev-imagem3{position:absolute;}
+.prev-imagem1, .prev-imagem2, .prev-imagem3{position:absolute;}
+.preview img{max-width:100%;}
+.thunbs li{width:80px;height:80px;border-radius:15px;border:1px solid;margin-bottom:10px;}
+.preview{margin-bottom:10px;/*transform:scale(0.75);*/}
+
+/* CEL COLORS */
+.cel{height:30px;width:30px;border-radius:5px;cursor:pointer;}
+.celColors{display:inline-flex;}
+.celColors li{margin-right:5px;}
+ul.celColors {
+    padding-left: 0px;
+}
+.areapersonalizacao {
+    background-color: #ececec;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+/* ELEMENTS */
+.custom-text{position:absolute;top:0px;left:0px;color:#ff2d;font-size:32px;font-size:85px;}
+
+
+/* EXTRA */
+.clip{-webkit-mask-repeat:no-repeat;-webkit-mask-size:contain;-webkit-mask-clip: border-box;mask-clip: border-box;}
+.clip1{-webkit-mask-image:url(../images/cases/iphone7plus/mascara/frente/base1.webp);}
+.clip2{-webkit-mask-image:url(../images/cases/iphone7plus/mascara/lado/base1.webp);}
+.clip3{-webkit-mask-image:url(../images/cases/iphone7plus/mascara/inclinado_esquerda/base1.webp);}
+.clip4{-webkit-mask-image:url(../images/cases/iphone7plus/mascara/deitado_direita/base1.webp);}
+
+
+#colorpick {
+  position: absolute;
+  top: 52px;
+  right: 40px;
+}
+
+#colorpick .btn{
+  height: 30px;
+  width: 30px;
+}
+.colorpicker-2x{position:absolute;}
+.colorpicker-2x .colorpicker-saturation {
+  width: 200px;
+  height: 200px;
+}
+#colorpick i {
+  line-height: 30px;
+  width: 42px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+.colorpicker-2x .colorpicker-hue,
+.colorpicker-2x .colorpicker-alpha {
+  width: 30px;
+  height: 200px;
+}
+.colorpicker-2x .colorpicker-color,
+.colorpicker-2x .colorpicker-color div{
+  height: 30px;
+}
+
+
+#drag-1, #drag-2 {
+  margin: 0;
+  transform: translate(0px, 0px);
+  position:absolute;
+  top:0;
+}
+
+/* TITLES AND TEXTS*/
+p{color:#545454;}
+.title{color:#43425D;}
+
+/* STRUCTURE */
+#widget-left{background:#43425D;}
+
+/* HEADER */
+#header{color:#545454;}
+
+/* MENUS */
+
+/* WIDGET */
+#widget-left li i{color:#8E8FA5;}
+
+/* ADAPTAÇÃO PARA ESTRUTURA DO WILLIAN*/
+#insertText {
+  position: absolute;
+  top: 34px;
+  right: 19px;
+}
+.preview {
+  margin-bottom: 10px;
+  transform: scale(0.60);
+  margin-top: -120px;
+}
+.img-upload {
+  width: auto;
+  height: auto;
+}
+.clip1{width:100%;}
+.img-upload-max{width:700px;}
+
+.hk-custom-on{margin-top:-50px;}
+#customcharacters .elements{height:1034px;}
+.glide__slides li {
+  width: 60px;
+}
+.glide__slides li {
+  display: inline-block;
+}
+
+
+.ctext{margin-bottom:0 !important;}
+
+/* TODO - MÁSCARAS EM VISÕES DIFERENTES - ESTÁ FIXADO A MÁSCARA DO EXEMPLO, MAS DEVE SER VARIÁVEL */
+#imagem-3 .clip1 {-webkit-mask-image: url(../images/cases/iphone7plus/mascara/frente/base1.webp);}
+#imagem-2 .clip1 {-webkit-mask-image: url(../images/cases/iphone7plus/mascara/lado/base1.webp);}
+#imagem-3 .clip1 {-webkit-mask-image: url(../images/cases/iphone7plus/mascara/inclinado_esquerda/base1.webp);}
+
+/* AJUSTANDO ELEMENTOS CUSTOMIZADOS A CADA VISÃO */
+#imagem-2 .custompersonal .viewposition{transform: rotateY(43deg);}
+#imagem-2 .customcharacters .viewposition{transform: rotateY(43deg);}
+#imagem-3 .custompersonal .viewposition{transform: skew(32deg, -13deg) translate(61px, -48px) scale(0.53);}
+#imagem-3 .customcharacters .viewposition{transform: skew(32deg, -13deg) translate(32px, -47px) scale(0.53);}
+
+
+/*Personalização Willian*/
+
+.glide__slide {
+    width: 60px;
+    height: 60px;
+    -webkit-box-shadow: 0px 0px 10px -5px rgb(0 0 0 / 80%);
+    box-shadow: 0px 0px 10px -5px rgb(0 0 0 / 50%);
+    border: 0px;
+    margin: 5px;
+}
+.glide__slide:focus{
+    border: 1px solid #000;
+}
+@media all and (max-width: 500px) {
+  .img-upload-max{
+    width:500px;
+    height:626px !important;
+  }
+  
+  #tabProdutoContent {
+    height: 420px;
+  }
+}

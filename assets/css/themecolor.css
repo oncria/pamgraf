@@ -1,0 +1,87 @@
+body{background:#f7f7f7;color:#545454;}
+
+.default-blue{color:#282f6f;}
+.default-red{color:#e91c2e;}
+.default-text{color:#3b3d40;}
+.alert-text{color:#ffba00;}
+.warning-text{color:#e91c2e;}
+
+/* TITLES AND TEXTS*/
+p{color:#545454;}
+.title{color:#43425D;}
+
+/* STRUCTURE */
+#widget-left{background:#43425D;}
+
+/* HEADER */
+#header{color:#545454;}
+
+/* MENUS */
+
+/* WIDGET */
+#widget-left li i{color:#8E8FA5;}
+
+/* SUBHEADER */
+
+
+/* CONTENT */
+#dashboard .card{background:#ffffff;}
+#widget-left{color:#ffffff;}
+.disabled {background: none !important;border: 3px solid #8d8caa;border-style: dashed;}
+.disabled .title{color:#8d8caa;}
+.positive{color:#4CAF50;}
+.xps-form{background:#ffffff;}
+.xps-form select{background:rgba(255,255,255,0);}
+.info i{color: #c9c9c9;}
+.circle-icon{background:#26a69a;color:#ffffff;}
+.tab-custom-pam{background:#e5e5e5;}
+
+/* ELEMENTS LIST */
+.glide__slide {border-color: #ffffff;background-color: #ffffff;}
+
+/* CARDS */
+
+/* BUTTONS */
+.btn-search{color:#26a69a;}
+.btn-search:focus {background: none;color: #646464;}
+
+
+/* TABS */
+.tabs .tab a:hover, .tabs .tab a.active {color: #691ae7;}
+.tabs .tab a {color: #1a8be7;}
+.tabs .indicator{background-color: #7230e9;}
+.tabs .tab a:focus, .tabs .tab a:focus.active {color:#ffffff;background-color: #691ae7;outline: none;}
+
+
+/* CEL COLORS */
+.cel-azul{background:#002077;}
+.cel-vermelho{background:#ff2d00;}
+.cel-preto{background:#000000;}
+
+
+
+/* ALERTS */
+
+/* LOGOS */
+
+
+/* CTA */
+
+/* FOOTER */
+
+
+
+
+
+
+/* CONTRAST E.G  */
+
+/* GLOBAL */
+
+/* HEADER */
+
+/* CONTENT */
+
+/* FOOTER */
+
+/* PLUS */
